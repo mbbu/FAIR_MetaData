@@ -39,7 +39,7 @@ From the above objectives, the workshop participant should acquire the following
 This training targets students and researchers within *icipe* who are working or generating research data. There are no pre-requisites for this training. 
 
 ### Training Topics
-- Introduction to FAIR Data
-- Introduction to Metadata
+- [Introduction to FAIR Data](https://www.nature.com/articles/sdata201618)
+- Introduction to Metadata: https://www.ncbi.nlm.nih.gov/books/NBK53999/
 - Metadata standards and formats
 - Tools and standard for metadata management
