@@ -3,4 +3,6 @@
     Introduction to FAIR Data: 
     Introduction to Metadata: Find details on this....
     Metadata standards and formats: A bit tricky, but may focus on the genomics field. 
-    Tools and standard for metadata management: Same here
+    Tools and standard for metadata management
+    
+   Practical aspects: https://datacarpentry.org/organization-genomics/
